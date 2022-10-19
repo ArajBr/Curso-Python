@@ -1,2 +1,2 @@
 # Curso-Python-Hastag
- HASHTAG course codes and exercises
+Course codes and exercises
